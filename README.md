@@ -1,0 +1,2 @@
+# DinnerApp
+DinnerApp Privacy Policy
